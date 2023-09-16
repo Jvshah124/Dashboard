@@ -1,6 +1,5 @@
 # Restaurant Food Delivery Dashboard
 
-![Project Demo](demo.png)
 
 ## Introduction
 
